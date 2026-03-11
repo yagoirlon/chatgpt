@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "StepReward",
+    "slug": "stepreward",
+    "scheme": "stepreward",
+    "version": "1.0.0",
+    "platforms": ["ios", "android"],
+    "android": {
+      "permissions": ["ACTIVITY_RECOGNITION"]
+    }
+  }
+}
